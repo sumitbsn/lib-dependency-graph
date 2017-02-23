@@ -4,6 +4,7 @@ It's a Unix/Linux Utility to find the library dependencies of a program.
 To invoke the program – $libdd "Input program path"
 
 Example:- $libdd /usr/bin/vlc
+
 OUTPUT:
 
 vlc -> { libvlc.so.5  libpthread.so.0  libdl.so.2 libc.so.6 },
