@@ -1,5 +1,5 @@
 # lib-dependency
-It's a Unix/Linux Utility to find the library dependencies of a program.
+“libldd” is a Linux/Unix Utility to find dependent libraries recursively required at runtime for a binary or library, and plot dependency graph for the same.
 
 To invoke the program – $libdd "Input program path"
 
